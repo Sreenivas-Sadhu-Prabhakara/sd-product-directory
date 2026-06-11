@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-product-directory
+description: "BIAN Service Domain: Product Directory (Catalog pattern, Reference Data)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - catalog
+annotations:
+  bian/business-area: "Reference Data"
+  bian/business-domain: "Reference Data"
+  bian/asset-type: "Product Reference Data"
+  bian/control-record: "Product Reference Data Directory Entry"
